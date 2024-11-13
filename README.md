@@ -10,7 +10,3 @@ rimac.com.pe rimac.com.pe
 agregando rimac.com.pe
 
 rimac.com.pe
-
-axcelex
-rimac.com
-axcelex
